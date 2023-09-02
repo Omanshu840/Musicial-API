@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Musicial": {
+      "applicationId": "oA0iJtGYBhkD5T6KAAbERNGCZtXkVxFbGQOfrLrf"
+    },
+    "_default": {
+      "link": "Musicial"
+    }
+  }
+}
